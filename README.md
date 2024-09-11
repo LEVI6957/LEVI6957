@@ -7,13 +7,6 @@ Currently, I'm leading projects in the fields of **SMART Hydroponics** and **IOT
 
 ---
 
-### 💼 Professional Focus
-- **SMART Hydroponics System**: Building an IoT-driven system that optimizes hydroponic farming through automated monitoring and control, tracking production, revenue, and legal compliance.
-- **Robotics & Automation**: Innovating robotic systems such as a **smart vacuum cleaner** using ultrasonic sensors for obstacle detection and avoidance.
-- **Fire Detection System**: Created an advanced system to detect fires and trigger water release mechanisms for fire suppression.
-
----
-
 ### 🛠️ Technical Expertise
 - **Languages**: PHP, JavaScript, Python, C++
 - **Web Technologies**: Laravel, Vue.js, React, Tailwind CSS, Bootstrap
