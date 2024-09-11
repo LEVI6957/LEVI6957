@@ -1,7 +1,7 @@
 # Hello, I'm Levi 👋
 
-![GitHub followers](https://img.shields.io/github/followers/https://github.com/LEVI6957)
-![Instagram Follow](https://img.shields.io/instagram/follow/https://www.instagram.com/leviexe69/)
+![GitHub followers](https://img.shields.io/github/followers/LEVI6957?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/LEVI?style=social)
 
 Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionate about building innovative solutions with cutting-edge technologies.
 
