@@ -1,35 +1,52 @@
-# Levi | Full-Stack Developer & IoT Enthusiast
+# Hello, I'm Levi 👋
 
-### 👋 Welcome to my GitHub profile! 
-I am Levi, a dedicated developer with a passion for creating innovative technology solutions. My expertise spans **full-stack web development**, **IoT systems**, and **smart systems engineering**. I enjoy turning complex problems into simple, elegant, and efficient solutions. 
+![Profile views](https://gpvc.arturio.dev/yourusername)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
 
-Currently, I'm leading projects in the fields of **SMART Hydroponics** and **IOT SYSTEM**-based educational platforms. My focus is on building impactful systems that integrate seamlessly into real-world applications.
-
----
-
-### 🛠️ Technical Expertise
-- **Languages**: PHP, JavaScript, Python, C++
-- **Web Technologies**: Laravel, Vue.js, React, Tailwind CSS, Bootstrap
-- **IoT & Hardware**: Arduino, Sensor Integration, Embedded Systems
-- **Cloud & DevOps**: Google Cloud
-- **Database**: MySQL
+Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionate about building innovative solutions with cutting-edge technologies.
 
 ---
 
-### 📈 Projects & Research Areas
-- **Hydroponics Smart Systems**: Integrating IoT and cloud services to monitor and optimize growth conditions.
-- **Robotic Automation**: Implementing smart sensors in robotics for efficient obstacle detection and autonomous movement.
-- **Smart Fire Detection**: Combining hardware and software for proactive fire safety solutions.
+## 👨‍💻 About Me
+
+- 🔭 Currently working on: [**Your Project Name**](https://github.com/yourusername/yourproject)
+- 👯 Looking to collaborate on: **Open Source Projects**
+- 💬 Ask me about: **IOT, Python, or Web Development**
+- 📫 Reach me at: [**your.email@example.com**](mailto:your.email@example.com)
+- ⚡ Fun fact: **[Something interesting or quirky about you]**
 
 ---
 
-### 📫 Let's Connect
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me through:
+## 🛠 Languages and Tools
 
-- [LinkedIn](https://www.linkedin.com/in/fernandi-lucky-putra-4b9a73310)
-- [Email](mailto:fernandiputra21@gmail.com)
-- [GitHub](https://github.com/LEVI6957)
+- **Languages**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+- **Web Technologies**: ![Laravel](https://img.shields.io/badge/-Laravel-F0523D?logo=laravel&logoColor=white&style=flat) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+- **IoT & Hardware**: ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat) ![Sensor Integration](https://img.shields.io/badge/-Sensor%20Integration-000000?style=flat) ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000000?style=flat)
+- **Cloud & DevOps**: ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
+- **Database**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 ---
 
-Thank you for visiting, and I look forward to collaborating on exciting projects!
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Levi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- LinkedIn: [**yourlinkedin**](https://www.linkedin.com/in/yourlinkedin)
+- Twitter: [**@yourtwitterhandle**](https://twitter.com/yourtwitterhandle)
+- Email: [**your.email@example.com**](mailto:your.email@example.com)
+
+---
+
+Thanks for visiting my profile! I look forward to connecting and collaborating with you 😊
+
+---
+
+Jika ada hal lain yang ingin diubah, beri tahu saya saja!
