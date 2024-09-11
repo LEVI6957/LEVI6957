@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/LEVI6957?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LEVI?style=social)
 
-Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionate about building innovative solutions with cutting-edge technologies.
+Welcome to my GitHub profile! I'm a dedicated **Full Stack Web Developer & Networking Enginer** passionate about building innovative solutions with cutting-edge technologies.
 
 ---
 
