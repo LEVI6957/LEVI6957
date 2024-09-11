@@ -38,14 +38,12 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionat
 
 ## 📬 Get in Touch
 
-- LinkedIn: [**yourlinkedin**](https://www.linkedin.com/in/yourlinkedin)
-- Twitter: [**@yourtwitterhandle**](https://twitter.com/yourtwitterhandle)
-- Email: [**your.email@example.com**](mailto:your.email@example.com)
+- LinkedIn: [**Linkedin**](https://www.linkedin.com/in/fernandi-lucky-putra-4b9a73310/)
+- instagram: [**Instagram**](https://www.instagram.com/leviexe69/)
+- Email: [**Mail**](mailto:leviexe69@gmail.com)
 
 ---
 
 Thanks for visiting my profile! I look forward to connecting and collaborating with you 😊
 
 ---
-
-Jika ada hal lain yang ingin diubah, beri tahu saya saja!
