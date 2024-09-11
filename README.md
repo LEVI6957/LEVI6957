@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Web Developer,Network
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Levi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LEVI6957&show_icons=true&theme=tokyonight" alt="Levi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVI6957&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
