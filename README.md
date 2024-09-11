@@ -44,6 +44,14 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Web Developer & Netwo
 
 ---
 
+## 👥 Visitor Count
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitor Count" />
+</p>
+
+---
+
 Thanks for visiting my profile! I look forward to connecting and collaborating with you 😊
 
 ---
