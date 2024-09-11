@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionat
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: [**Your Project Name**](https://github.com/yourusername/yourproject)
+- 🔭 Currently working on: [**just see martket**](https://id.tradingview.com/u/leviexe69/)
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **IOT, Python, or Web Development**
-- 📫 Reach me at: [**your.email@example.com**](mailto:leviexe69@gmail.com)
+- 📫 Reach me at: [**Mail**](mailto:leviexe69@gmail.com)
 - ⚡ Fun fact: **im play any mmorpg game to earn money**
 
 ---
