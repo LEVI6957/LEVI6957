@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** passionat
 - 🔭 Currently working on: [**Your Project Name**](https://github.com/yourusername/yourproject)
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **IOT, Python, or Web Development**
-- 📫 Reach me at: [**your.email@example.com**](mailto:your.email@example.com)
-- ⚡ Fun fact: **[Something interesting or quirky about you]**
+- 📫 Reach me at: [**your.email@example.com**](mailto:leviexe69@gmail.com)
+- ⚡ Fun fact: **im play any mmorpg game to earn money**
 
 ---
 
