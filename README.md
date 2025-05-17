@@ -5,13 +5,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/LEVI6957?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LEVI?style=social)
 
-Welcome to my GitHub profile! I'm a dedicated **Full Stack Web Developer,Networking Enginer, Cyber Security, & IOT** passionate about building innovative solutions with cutting-edge technologies.
+Welcome to my GitHub profile! I'm a dedicated **Full Stack Web Developer,Networking Enginer, Cyber Security, IOT, & FULL AUTOMATIC BOT** passionate about building innovative solutions with cutting-edge technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: [**just see martket**](https://id.tradingview.com/u/leviexe69/)
+- 🔭 Currently working on: [**JUST SEE MARKET**](https://id.tradingview.com/u/leviexe69/)
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **IOT, Python, or Web Development**
 - 📫 Reach me at: [**Mail**](mailto:leviexe69@gmail.com)
