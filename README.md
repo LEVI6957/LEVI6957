@@ -61,10 +61,10 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Web Developer,Network
 
 ## 📬 Get in Touch
 
-- LinkedIn: [**Linkedin**](https://www.linkedin.com/in/fernandi-lucky-putra-4b9a73310/)
-- instagram: [**Instagram**](https://www.instagram.com/leviexe69/)
-- Email: [**Mail**](mailto:leviexe69@gmail.com)
-- Facebook: [**Facebook**](https://www.facebook.com/fernandi.luckyputra)
+- LinkedIn:   [**Linkedin**](https://www.linkedin.com/in/fernandi-lucky-putra-4b9a73310/)
+- instagram:  [**Instagram**](https://www.instagram.com/leviexe69/)
+- Email:      [**Mail**](mailto:leviexe69@gmail.com)
+- Facebook:   [**Facebook**](https://www.facebook.com/fernandi.luckyputra)
 
 ---
 
