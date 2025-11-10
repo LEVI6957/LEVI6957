@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a dedicated **Full Stack Web Developer,Network
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: [**JUST SEE MARKET**](https://id.tradingview.com/u/leviexe69/)
+- 🔭 JOIN OUR COMMUNITY ON ROBLOX: [**COMMUNITY**](https://www.roblox.com/share/g/32837180)
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: **IOT, Python, or Web Development**
 - 📫 Reach me at: [**Mail**](mailto:leviexe69@gmail.com)
