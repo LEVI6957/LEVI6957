@@ -57,21 +57,6 @@ I focus on building scalable, automated, and secure systems.
 
 ---
 
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LEVI6957&theme=gruvbox&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEVI6957&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVI6957&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/fernandi-lucky-putra-4b9a73310/
