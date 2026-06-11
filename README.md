@@ -12,8 +12,7 @@ I am an **Automation & Orchestration Engineer** with strong foundations in:
 
 - Full Stack Development  
 - Network Engineering  
-- Cyber Security  
-- IoT Systems  
+- Cyber Security   
 - Infrastructure Automation  
 - Bot & System Orchestration  
 
